@@ -1,1 +1,2 @@
-# python-easyOCR
+# python-easyOCR 
+Not by pyttsx3 
